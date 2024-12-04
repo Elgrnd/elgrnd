@@ -34,7 +34,7 @@ Je suis toujours curieux(se) d'apprendre de nouvelles technologies et d'explorer
 
 ## 📫 Contactez-moi !
 - **Email :** galdric.dc@laposte.net  
-- **LinkedIn :** [galdric.desertcaparros]([https://www.linkedin.com/](https://www.linkedin.com/in/galdric-desert-caparros-5869ab2aa/))  
+- **LinkedIn :** [galdric.desertcaparros](https://www.linkedin.com/in/galdric-desert-caparros-5869ab2aa/) 
 - **Portfolio :** https://galdricdc.vercel.app/
 
 Merci de visiter mon profil, et n'hésitez pas à explorer mes dépôts ou à me contacter pour discuter de projets intéressants !
