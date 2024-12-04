@@ -6,7 +6,7 @@ Je m'appelle Galdric, un étudiant passionné par le développement logiciel et 
 - **Développement d'applications web** et **interfaces utilisateur intuitives**.  
 - Résolution de **problèmes complexes** grâce à la programmation.
 
-J'aime transformer des idées en solutions concrètes, que ce soit dans le cadre de projets universitaires, d'événements collaboratifs comme la **Nuit de l'Info**, ou de travaux personnels.
+Je travaille actuellement sur un site web de poursuite d'étude dans le cadre de ma formation et sur une PWA (Progressive Web App) sur la [gestion de salaire en babysitting](https://github.com/Elgrnd/babysitting-salaire-tracker)
 
 ---
 
