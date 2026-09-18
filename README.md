@@ -7,6 +7,7 @@ Je m'appelle Galdric, un étudiant passionné par le développement logiciel et 
 - Résolution de **problèmes complexes** grâce à la programmation.
 
 Je travaille actuellement l'apprentissage du framework Angular pour mon alternance à la DNSCE (douane).
+
 ---
 
 ## 🛠️ Technologies et outils
