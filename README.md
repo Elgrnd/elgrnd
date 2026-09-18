@@ -1,13 +1,12 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ## 🌟 À propos de moi
-Je m'appelle Galdric, un étudiant passionné par le développement logiciel et les technologies numériques. Actuellement en 2e année de BUT informatique, je m'intéresse particulièrement à :
+Je m'appelle Galdric, un étudiant passionné par le développement logiciel et les technologies numériques. Actuellement en 3e année de BUT informatique, je m'intéresse particulièrement à :
 
 - **Développement d'applications web** et **interfaces utilisateur intuitives**.  
 - Résolution de **problèmes complexes** grâce à la programmation.
 
-Je travaille actuellement sur un site web de poursuite d'étude dans le cadre de ma formation et sur une PWA (Progressive Web App) sur la [gestion de salaire en babysitting](https://github.com/Elgrnd/babysitting-salaire-tracker)
-
+Je travaille actuellement l'apprentissage du framework Angular pour mon alternance à la DNSCE (douane).
 ---
 
 ## 🛠️ Technologies et outils
@@ -19,6 +18,7 @@ Je travaille actuellement sur un site web de poursuite d'étude dans le cadre de
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
